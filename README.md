@@ -24,8 +24,3 @@ Verified on [Credly](https://www.credly.com/users/mael-mandis.ea671939).
 ## Stack
 
 Terraform · serverless (Lambda) · ECS Fargate · CI/CD · CloudWatch · PHP
-
-## Contact
-
-- LinkedIn: [linkedin.com/in/maelmandis](https://www.linkedin.com/in/maelmandis/)
-- Email: mael.mandis@proton.me
