@@ -17,10 +17,9 @@ Verified on [Credly](https://www.credly.com/users/mael-mandis.ea671939).
 
 ## Projects
 
-- [k6-fargate-cloudwatch](https://github.com/mandisma/k6-fargate-cloudwatch): K6 load testing on ECS Fargate with a CloudWatch Agent sidecar
 - [dotfiles](https://github.com/mandisma/dotfiles): my personal dotfiles
-- [diagram-as-code](https://github.com/mandisma/diagram-as-code): AWS architecture diagrams as code
 - [spotify-api-client](https://github.com/mandisma/spotify-api-client): PHP HTTP client for the Spotify API
+- [k6-fargate-cloudwatch](https://github.com/mandisma/k6-fargate-cloudwatch): fork of an AWS sample that I adapted (parameterized project/environment/company in Terraform), K6 load testing on ECS Fargate with a CloudWatch Agent sidecar
 
 ## Stack
 
